@@ -36,7 +36,7 @@ Achieved a non-trivial accuracy with XGBoost.
 
 ![](https://github.com/tghannam/Roots-Analytics/blob/main/Picture3.png)
 
-# Project 3: Creating A Network Graph For Certain Persons Based On A Specific Shared Interest Of Element.
+# [Project 3: Creating A Network Graph For Certain Persons Based On A Specific Shared Interest Of Element.](https://github.com/tghannam/Graph)
 ## Developed a code that takes the name of a person (e.g., Leonardo da Vinci) and searches for all Wikipedia links related to that person.
 * Search is based on specific criteria, such as a shared element (e.g., Mona Lisa) between the links.
 * The code explores links of links based on the same criteria, up to a user-defined depth of search.
