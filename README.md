@@ -17,6 +17,10 @@
 * 5- Results were illustrated using various plots and presented through a professional BI dashboard.
 * 6- Dashboard created using the Plotly Dash library and deployed online via the Heroku platform.
 
+![](https://github.com/tghannam/Roots-Analytics/blob/main/Picture1.png)
+
+![](https://github.com/tghannam/Roots-Analytics/blob/main/Picture2.png)
+
 # Project 2:
 ## Predicting The Next Or Previous Perfect Squared Number Of A Specific Number X.
 ## Problem involved using supervised machine learning (shallow and deep) to predict the distance of the next or previous perfect square number to a specified number x.
@@ -30,6 +34,8 @@
 *   Pytorch library was used for the deep learning approach.
 * Results: XGBoost showed more promising results compared to the Pytorch deep learning approach.
 Achieved a non-trivial accuracy with XGBoost.
+
+![](https://github.com/tghannam/Roots-Analytics/blob/main/Picture3.png)
 
 # Project 3:
 ## Creating A Network Graph For Certain Persons Based On A Specific Shared Interest Of Element.
@@ -46,3 +52,7 @@ Achieved a non-trivial accuracy with XGBoost.
 * The graph is plotted using the Plotly Dash Cytoscape library and the Gephi program.
 * Centrality measurements are applied to assess the network and identify the most influential node.
 * A geographical distribution of the entities is plotted to visualize the nationalities of persons involved in the network.
+
+![](https://github.com/tghannam/Roots-Analytics/blob/main/Picture4.jpg)
+
+![](https://github.com/tghannam/Roots-Analytics/blob/main/Picture5.png)
