@@ -53,4 +53,4 @@ Achieved a non-trivial accuracy with XGBoost.
 
 ![](https://github.com/tghannam/Roots-Analytics/blob/main/Picture4.jpg)
 
-![](https://github.com/tghannam/Roots-Analytics/blob/main/Picture5.png)
+
