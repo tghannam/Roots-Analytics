@@ -1,5 +1,5 @@
 ![](https://github.com/tghannam/Roots-Analytics/blob/main/portfolio_Image.jpg)
-# Roots-Analytics
+
 ## Welcome to Roots Analytics, where data science meets innovation.
 
 # [Project 1: Analyze The Randomness Of Data Generated From A Random Number Generator Using Various Statistical Techniques](https://github.com/tghannam/Statisical_Analysis/tree/main)
