@@ -2,8 +2,7 @@
 # Roots-Analytics
 ## Welcome to Roots Analytics, where data science meets innovation.
 
-# Project 1:
-## Analyze The Randomness Of Data Generated From A Random Number Generator Using Various Statistical Techniques
+# [Project 1: Analyze The Randomness Of Data Generated From A Random Number Generator Using Various Statistical Techniques](https://github.com/tghannam/Statisical_Analysis/tree/main)
 * 1 - Subjected data to multiple statistical analysis tools:
 *   a- Chi square (CS) test
 *   b- Kolmogorov-Smirnov (KS) test
@@ -22,8 +21,7 @@
 
 ![](https://github.com/tghannam/Roots-Analytics/blob/main/Picture2.png)
 
-# Project 2:
-## Predicting The Next Or Previous Perfect Squared Number Of A Specific Number X.
+# Project 2: Predicting The Next Or Previous Perfect Squared Number Of A Specific Number X.
 ## Problem involved using supervised machine learning (shallow and deep) to predict the distance of the next or previous perfect square number to a specified number x.
 * Data provided consisted of a table with numbers from 1 to 100,000, along with:
 * 1- Their next and previous square numbers
@@ -38,8 +36,7 @@ Achieved a non-trivial accuracy with XGBoost.
 
 ![](https://github.com/tghannam/Roots-Analytics/blob/main/Picture3.png)
 
-# Project 3:
-## Creating A Network Graph For Certain Persons Based On A Specific Shared Interest Of Element.
+# Project 3: Creating A Network Graph For Certain Persons Based On A Specific Shared Interest Of Element.
 ## Developed a code that takes the name of a person (e.g., Leonardo da Vinci) and searches for all Wikipedia links related to that person.
 * Search is based on specific criteria, such as a shared element (e.g., Mona Lisa) between the links.
 * The code explores links of links based on the same criteria, up to a user-defined depth of search.
