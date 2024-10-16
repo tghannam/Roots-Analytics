@@ -1,4 +1,4 @@
-[](https://github.com/tghannam/Roots-Analytics/blob/main/portfolio_Image.jpg)
+[](picture1.png)
 
 ## Welcome to Roots Analytics, where data science meets innovation.
 
