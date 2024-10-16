@@ -17,7 +17,7 @@
 * 5- Results were illustrated using various plots and presented through a professional BI dashboard.
 * 6- Dashboard created using the Plotly Dash library and deployed online via the Heroku platform.
 
-![](https://github.com/tghannam/Roots-Analytics/blob/main/picture2.png)
+![](https://github.com/tghannam/Roots-Analytics/blob/main/picture1.png)
 
 ![](https://github.com/tghannam/Roots-Analytics/blob/main/picture2.png)
 
