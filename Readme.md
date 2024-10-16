@@ -1,4 +1,4 @@
-[](picture1.png)
+![](https://github.com/tghannam/Roots-Analytics/blob/main/picture1.png)
 
 ## Welcome to Roots Analytics, where data science meets innovation.
 
@@ -17,9 +17,9 @@
 * 5- Results were illustrated using various plots and presented through a professional BI dashboard.
 * 6- Dashboard created using the Plotly Dash library and deployed online via the Heroku platform.
 
-[](https://github.com/tghannam/Roots-Analytics/blob/main/picture1.png)
+![](https://github.com/tghannam/Roots-Analytics/blob/main/picture1.png)
 
-[](https://github.com/tghannam/Roots-Analytics/blob/main/picture2.png)
+![](https://github.com/tghannam/Roots-Analytics/blob/main/picture2.png)
 
 # Project 2: Predicting The Next Or Previous Perfect Squared Number Of A Specific Number X.
 ## Problem involved using supervised machine learning (shallow and deep) to predict the distance of the next or previous perfect square number to a specified number x.
@@ -34,7 +34,7 @@
 * Results: XGBoost showed more promising results compared to the Pytorch deep learning approach.
 Achieved a non-trivial accuracy with XGBoost.
 
-[](https://github.com/tghannam/Roots-Analytics/blob/main/picture3.png)
+![](https://github.com/tghannam/Roots-Analytics/blob/main/picture3.png)
 
 # [Project 3: Creating A Network Graph For Certain Persons Based On A Specific Shared Interest Of Element.](https://github.com/tghannam/Graph)
 ## Developed a code that takes the name of a person (e.g., Leonardo da Vinci) and searches for all Wikipedia links related to that person.
@@ -51,6 +51,6 @@ Achieved a non-trivial accuracy with XGBoost.
 * Centrality measurements are applied to assess the network and identify the most influential node.
 * A geographical distribution of the entities is plotted to visualize the nationalities of persons involved in the network.
 
-[](https://github.com/tghannam/Roots-Analytics/blob/main/picture4.jpg)
+![](https://github.com/tghannam/Roots-Analytics/blob/main/picture4.jpg)
 
 
