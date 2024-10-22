@@ -53,6 +53,6 @@ Achieved a non-trivial accuracy with XGBoost.
 * Centrality measurements are applied to assess the network and identify the most influential node.
 * A geographical distribution of the entities is plotted to visualize the nationalities of persons involved in the network.
 
-![](https://github.com/tghannam/Roots-Analytics/blob/main/Images/Picture4.png)
+![](https://github.com/tghannam/Roots-Analytics/blob/main/Images/Picture4.jpg)
 # [Network_Graph](https://github.com/tghannam/Roots-Analytics/blob/main/Images/Picture4.jpg)
 
