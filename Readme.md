@@ -54,5 +54,5 @@ Achieved a non-trivial accuracy with XGBoost.
 * A geographical distribution of the entities is plotted to visualize the nationalities of persons involved in the network.
 
 ![](https://github.com/tghannam/Roots-Analytics/blob/main/Images/Picture4.jpg)
-# [Network_Graph](https://github.com/tghannam/Roots-Analytics/blob/main/Images/Picture4.jpg)
+# [Network_Graph](https://github.com/tghannam/Roots-Analytics/blob/main/Images/Picture4.JPG)
 
