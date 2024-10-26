@@ -20,7 +20,7 @@
 
 ![](Images/Picture1.png)
 
-![]Images/Picture2.png)
+![](Images/Picture2.png)
 
 
 # Project 2: Predicting The Next Or Previous Perfect Squared Number Of A Specific Number X.
