@@ -54,6 +54,10 @@ Achieved a non-trivial accuracy with XGBoost.
 * Centrality measurements are applied to assess the network and identify the most influential node.
 * A geographical distribution of the entities is plotted to visualize the nationalities of persons involved in the network.
 
-![](Images/Picture4.jpg)
+![](Images/Screenshot 2024-10-27 105156.png)
+
+# [Project 3: Creating a Dashboard for a Bycicle Company (captsotne project]
+## Developed a code that takes the name of a person (e.g., Leonardo da Vinci) and searches for all Wikipedia links related to that person.
 
 
+![](Images/Screenshot 2024-10-27 103130.jpg)
