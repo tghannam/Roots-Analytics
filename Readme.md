@@ -23,7 +23,7 @@
 ![](Images/Picture2.png)
 
 
-# Project 2: Predicting The Next Or Previous Perfect Squared Number Of A Specific Number X.
+# [Project 2: Predicting The Next Or Previous Perfect Squared Number Of A Specific Number X.](Square_Number_Prediction.py)
 ## Problem involved using supervised machine learning (shallow and deep) to predict the distance of the next or previous perfect square number to a specified number x.
 * Data provided consisted of a table with numbers from 1 to 100,000, along with:
 * 1- Their next and previous square numbers
