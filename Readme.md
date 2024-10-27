@@ -57,7 +57,7 @@ Achieved a non-trivial accuracy with XGBoost.
 ![](Images/Picture7.png)
 
 # [Project 3: Creating a Dashboard for a Bycicle Company (captsotne project]
-## Developed a code that takes the name of a person (e.g., Leonardo da Vinci) and searches for all Wikipedia links related to that person.
+## Used Python and Power BI to create an informative dashboard to help stakeholders track the revenue of a bycicles company.
 
 
 ![](Images/Picture6.jpg)
